@@ -17,7 +17,9 @@ namespace prjSecondApplication
         internal void Rules()
         {
             Console.WriteLine("Rules to be followed by all bank:{0}", rule);
-            Console.Writeline("hey");
+            Console.WriteLine("hey");
+            Console.WriteLine("hello");
+
         }
 
 
